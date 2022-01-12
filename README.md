@@ -6,7 +6,7 @@ This project is a simple selenium scraper template.
 
 ## Usage
 
-## Scrape using a script
+### Scrape using a script
 
 - build the docker container
   ```sh
